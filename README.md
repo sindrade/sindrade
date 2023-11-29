@@ -1,6 +1,6 @@
 # Olá! 👋 Sou o Sindclay Andrade 💼📊
 
-Sou um profissional na área de Dados com formação em Gestão Financeira e atualmente empenhado no curso de Engenharia de Dados pela renomada escola Korú, em parceria com iFood, onde fui agraciado com uma bolsa de estudos.
+Sou profissional da área de Dados com formação em Gestão Financeira e atualmente empenhado no curso de Engenharia de Dados pela renomada escola Korú, em parceria com iFood, onde fui agraciado com uma bolsa de estudos.
 
 Meu objetivo é aplicar minha expertise técnica para transformar dados em insights valiosos, contribuindo para a tomada de decisões estratégicas.
 
