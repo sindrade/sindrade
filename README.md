@@ -1,6 +1,6 @@
-# Sindclay Andrade - Especialista em Dados 💼📊
+# Olá! 👋 Sou o Sindclay Andrade 💼📊
 
-Olá! 👋 Sou o **Sindclay Andrade**, um profissional apaixonado por transformar dados em insights valiosos. Tenho expertise em Python, SQL e uma sólida experiência na área de dados.
+Sou apaixonado por transformar dados em insights valiosos, contribuindo para a tomada de decisões estratégicas.
 
 ## Habilidades Técnicas 🚀
 
@@ -14,8 +14,13 @@ Olá! 👋 Sou o **Sindclay Andrade**, um profissional apaixonado por transforma
   - Pandas
   - Power BI
 
-![Sindclay Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=sindrade&show_icons=true&theme=transparent) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindrade&layout=compact)
+
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=sindrade&show_icons=true&theme=transparent"/>
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindrade&layout=compact"/>
+</div>
+
+
 
 
 ## Blog e Artigos 📝
