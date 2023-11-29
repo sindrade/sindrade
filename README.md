@@ -21,8 +21,8 @@ Meu objetivo é aplicar minha expertise técnica para transformar dados em insig
 
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=sindrade&show_icons=true&theme=transparent"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindrade&layout=compact"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=sindrade&show_icons=true&theme=transparent"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindrade&layout=compact"/>
 </div>
 
 
