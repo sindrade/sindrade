@@ -27,12 +27,6 @@ Meu objetivo é aplicar minha expertise técnica para transformar dados em insig
 </div>
 
 
-
-
-## Blog e Artigos 📝
-
-Compartilho meu conhecimento e insights no [link para seu blog ou plataforma onde escreve].
-
 ## Conecte-se comigo 🌐
 
 - LinkedIn: https://www.linkedin.com/in/sindclay/
@@ -40,7 +34,7 @@ Compartilho meu conhecimento e insights no [link para seu blog ou plataforma ond
 
 ## Contato 📧
 
-Você pode entrar em contato comigo por e-mail em sindrade@email.com
+Você pode entrar em contato comigo por e-mail em sindrade@gmail.com
 
 ## Contribuições e Problemas 🤝
 
