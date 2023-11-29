@@ -15,6 +15,7 @@ Olá! 👋 Sou o **Sindclay Andrade**, um profissional apaixonado por transforma
   - Power BI
 
 ![Sindclay Andrade's GitHub stats](https://github-readme-stats.vercel.app/api?username=sindrade&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindrade&layout=compact)
 
 
 ## Blog e Artigos 📝
