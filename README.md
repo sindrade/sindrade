@@ -9,18 +9,12 @@ Meu objetivo é aplicar minha expertise técnica para transformar dados em insig
 <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /><img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 
-# 
-- **Linguagens:**
-  - Python
-  - SQL
-  - JavaScript
-
-- **Ferramentas:**
-  - Jupyter Notebooks
-  - Pandas
-  - Power BI
+## Guia do repositório
+* [Porfolio:](https://github.com/sindrade/portfolio) projetos de análise de dados que estou desenvolvendo.
 
 
+
+#
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=sindrade&show_icons=true&theme=transparent"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sindrade&layout=compact"/>
